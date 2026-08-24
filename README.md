@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/ananyajaiswal264/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ananyajaiswal264/leetcode/tree/master/0055-jump-game) |
+| [0238-product-of-array-except-self](https://github.com/ananyajaiswal264/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0455-assign-cookies](https://github.com/ananyajaiswal264/leetcode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/ananyajaiswal264/leetcode/tree/master/0860-lemonade-change) |
 | [1480-running-sum-of-1d-array](https://github.com/ananyajaiswal264/leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -52,5 +53,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/ananyajaiswal264/leetcode/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/ananyajaiswal264/leetcode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->

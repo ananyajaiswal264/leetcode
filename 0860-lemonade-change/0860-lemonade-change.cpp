@@ -1,29 +1,31 @@
 class Solution {
 public:
     bool lemonadeChange(vector<int>& bills) {
-        int n=bills.size();
-        int i=0;
-        int z=0,o=0;
-        while(i<n){
-            if(bills[i]==5) z++;
+        int n =bills.size();
+        int five=0,ten=0,twenty=0;
+        for(int i=0;i<n;i++){
+            if(bills[i]==5){
+                five++;
+            }
             else if(bills[i]==10){
-                if(z<=0) return false;
-                o++;
-                z--;
-
+                if(five<1) return false;
+                else {
+                    five--;
+                    ten++;
+                }
             }
             else {
-                if(o>0 && z>0) {
-                    o--;
-                    z--;
+                if(ten>=1 && five>=1 ){
+                    ten--;
+                    five--;
                 }
-                else if(z>=3) {
-                    z-=3;
+                else if(five>=3){
+                    five-=3;
                 }
-                else return false;
+                else {
+                    return false;
+                }
             }
-            i++;
-
         }
         return true;
         

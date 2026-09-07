@@ -4,7 +4,7 @@ public:
         int n =nums.size();
         int maxi=0;
         for(int i=0;i<n;i++){
-            if(maxi<i) return false;
+            if(i>maxi) return false;
             maxi=max(maxi,i+nums[i]);
         }
         return true;

@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ananyajaiswal264/leetcode/tree/master/0011-container-with-most-water) |
 | [0040-combination-sum-ii](https://github.com/ananyajaiswal264/leetcode/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/ananyajaiswal264/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ananyajaiswal264/leetcode/tree/master/0055-jump-game) |
@@ -30,12 +31,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ananyajaiswal264/leetcode/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ananyajaiswal264/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0455-assign-cookies](https://github.com/ananyajaiswal264/leetcode/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/ananyajaiswal264/leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ananyajaiswal264/leetcode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/ananyajaiswal264/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ananyajaiswal264/leetcode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/ananyajaiswal264/leetcode/tree/master/0455-assign-cookies) |

@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ananyajaiswal264/leetcode/tree/master/0011-container-with-most-water) |
+| [0039-combination-sum](https://github.com/ananyajaiswal264/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ananyajaiswal264/leetcode/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/ananyajaiswal264/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ananyajaiswal264/leetcode/tree/master/0055-jump-game) |
@@ -84,5 +85,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/ananyajaiswal264/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ananyajaiswal264/leetcode/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->

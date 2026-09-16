@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/ananyajaiswal264/leetcode/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/ananyajaiswal264/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ananyajaiswal264/leetcode/tree/master/0055-jump-game) |
+| [0090-subsets-ii](https://github.com/ananyajaiswal264/leetcode/tree/master/0090-subsets-ii) |
 | [0238-product-of-array-except-self](https://github.com/ananyajaiswal264/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0455-assign-cookies](https://github.com/ananyajaiswal264/leetcode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/ananyajaiswal264/leetcode/tree/master/0860-lemonade-change) |
@@ -87,4 +88,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/ananyajaiswal264/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ananyajaiswal264/leetcode/tree/master/0040-combination-sum-ii) |
+| [0090-subsets-ii](https://github.com/ananyajaiswal264/leetcode/tree/master/0090-subsets-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/ananyajaiswal264/leetcode/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->

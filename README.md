@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/ananyajaiswal264/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ananyajaiswal264/leetcode/tree/master/0055-jump-game) |
+| [0131-palindrome-partitioning](https://github.com/ananyajaiswal264/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0678-valid-parenthesis-string](https://github.com/ananyajaiswal264/leetcode/tree/master/0678-valid-parenthesis-string) |
 ## Prefix Sum
 |  |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/ananyajaiswal264/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0678-valid-parenthesis-string](https://github.com/ananyajaiswal264/leetcode/tree/master/0678-valid-parenthesis-string) |
 ## Stack
 |  |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/ananyajaiswal264/leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/ananyajaiswal264/leetcode/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/ananyajaiswal264/leetcode/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/ananyajaiswal264/leetcode/tree/master/0131-palindrome-partitioning) |
 ## Bit Manipulation
 |  |
 | ------- |

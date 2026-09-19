@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/ananyajaiswal264/leetcode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/ananyajaiswal264/leetcode/tree/master/0055-jump-game) |
 | [0090-subsets-ii](https://github.com/ananyajaiswal264/leetcode/tree/master/0090-subsets-ii) |
+| [0169-majority-element](https://github.com/ananyajaiswal264/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ananyajaiswal264/leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/ananyajaiswal264/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0455-assign-cookies](https://github.com/ananyajaiswal264/leetcode/tree/master/0455-assign-cookies) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ananyajaiswal264/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ananyajaiswal264/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ananyajaiswal264/leetcode/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/ananyajaiswal264/leetcode/tree/master/0455-assign-cookies) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ananyajaiswal264/leetcode/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/ananyajaiswal264/leetcode/tree/master/0037-sudoku-solver) |
+| [0169-majority-element](https://github.com/ananyajaiswal264/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ananyajaiswal264/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ananyajaiswal264/leetcode/tree/master/0242-valid-anagram) |
 ## Matrix
@@ -127,4 +130,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/ananyajaiswal264/leetcode/tree/master/0037-sudoku-solver) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ananyajaiswal264/leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ananyajaiswal264/leetcode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ananyajaiswal264/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

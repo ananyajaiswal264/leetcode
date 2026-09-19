@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/ananyajaiswal264/leetcode/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/ananyajaiswal264/leetcode/tree/master/0455-assign-cookies) |
 ## Quicksort
 |  |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/ananyajaiswal264/leetcode/tree/master/0131-palindrome-partitioning) |
+| [0242-valid-anagram](https://github.com/ananyajaiswal264/leetcode/tree/master/0242-valid-anagram) |
 | [0678-valid-parenthesis-string](https://github.com/ananyajaiswal264/leetcode/tree/master/0678-valid-parenthesis-string) |
 ## Stack
 |  |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ananyajaiswal264/leetcode/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/ananyajaiswal264/leetcode/tree/master/0037-sudoku-solver) |
+| [0242-valid-anagram](https://github.com/ananyajaiswal264/leetcode/tree/master/0242-valid-anagram) |
 ## Matrix
 |  |
 | ------- |

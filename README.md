@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ananyajaiswal264/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0268-missing-number](https://github.com/ananyajaiswal264/leetcode/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ananyajaiswal264/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ananyajaiswal264/leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/ananyajaiswal264/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/ananyajaiswal264/leetcode/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ananyajaiswal264/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/ananyajaiswal264/leetcode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/ananyajaiswal264/leetcode/tree/master/0860-lemonade-change) |
 | [1480-running-sum-of-1d-array](https://github.com/ananyajaiswal264/leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/ananyajaiswal264/leetcode/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ananyajaiswal264/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ananyajaiswal264/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/ananyajaiswal264/leetcode/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/ananyajaiswal264/leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Greedy
@@ -62,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ananyajaiswal264/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ananyajaiswal264/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ananyajaiswal264/leetcode/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ananyajaiswal264/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/ananyajaiswal264/leetcode/tree/master/0455-assign-cookies) |
 ## Quicksort
 |  |
@@ -129,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ananyajaiswal264/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ananyajaiswal264/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ananyajaiswal264/leetcode/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ananyajaiswal264/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Matrix
 |  |
 | ------- |

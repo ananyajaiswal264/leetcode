@@ -4,19 +4,19 @@ public:
         int n=nums.size();
         unordered_map<int,int>mp;
         vector<int>ans;
-
-        for(int i=0;i<n;i++){
-            int rem =target-nums[i];
+        for(int i=0;i<nums.size();i++){
+            int rem=target-nums[i];
             if(mp.find(rem)!=mp.end()){
-                ans.push_back(i);
                 ans.push_back(mp[rem]);
-                
+                ans.push_back(i);
             }
             else {
                 mp[nums[i]]=i;
             }
+
         }
         return ans;
+
         
     }
 };

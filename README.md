@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ananyajaiswal264/leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/ananyajaiswal264/leetcode/tree/master/0011-container-with-most-water) |
+| [0031-next-permutation](https://github.com/ananyajaiswal264/leetcode/tree/master/0031-next-permutation) |
 | [0037-sudoku-solver](https://github.com/ananyajaiswal264/leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/ananyajaiswal264/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ananyajaiswal264/leetcode/tree/master/0040-combination-sum-ii) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/ananyajaiswal264/leetcode/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ananyajaiswal264/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0031-next-permutation](https://github.com/ananyajaiswal264/leetcode/tree/master/0031-next-permutation) |
 | [0189-rotate-array](https://github.com/ananyajaiswal264/leetcode/tree/master/0189-rotate-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ananyajaiswal264/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/ananyajaiswal264/leetcode/tree/master/0455-assign-cookies) |

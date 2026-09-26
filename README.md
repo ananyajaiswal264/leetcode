@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/ananyajaiswal264/leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/ananyajaiswal264/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ananyajaiswal264/leetcode/tree/master/0055-jump-game) |
+| [0075-sort-colors](https://github.com/ananyajaiswal264/leetcode/tree/master/0075-sort-colors) |
 | [0090-subsets-ii](https://github.com/ananyajaiswal264/leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/ananyajaiswal264/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/ananyajaiswal264/leetcode/tree/master/0169-majority-element) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ananyajaiswal264/leetcode/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ananyajaiswal264/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/ananyajaiswal264/leetcode/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/ananyajaiswal264/leetcode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/ananyajaiswal264/leetcode/tree/master/0189-rotate-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ananyajaiswal264/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/ananyajaiswal264/leetcode/tree/master/0455-assign-cookies) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/ananyajaiswal264/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/ananyajaiswal264/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ananyajaiswal264/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ananyajaiswal264/leetcode/tree/master/0242-valid-anagram) |
@@ -75,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/ananyajaiswal264/leetcode/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/ananyajaiswal264/leetcode/tree/master/0455-assign-cookies) |
 ## Dynamic Programming
 |  |
@@ -175,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ananyajaiswal264/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ananyajaiswal264/leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->

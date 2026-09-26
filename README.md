@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/ananyajaiswal264/leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/ananyajaiswal264/leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/ananyajaiswal264/leetcode/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/ananyajaiswal264/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ananyajaiswal264/leetcode/tree/master/0055-jump-game) |
 | [0090-subsets-ii](https://github.com/ananyajaiswal264/leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/ananyajaiswal264/leetcode/tree/master/0136-single-number) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/ananyajaiswal264/leetcode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/ananyajaiswal264/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ananyajaiswal264/leetcode/tree/master/0055-jump-game) |
 | [0131-palindrome-partitioning](https://github.com/ananyajaiswal264/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0678-valid-parenthesis-string](https://github.com/ananyajaiswal264/leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ananyajaiswal264/leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/ananyajaiswal264/leetcode/tree/master/0169-majority-element) |
 ## Counting
 |  |

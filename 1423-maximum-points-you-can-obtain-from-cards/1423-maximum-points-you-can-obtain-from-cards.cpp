@@ -1,21 +1,21 @@
 class Solution {
 public:
-    int maxScore(vector<int>& cardPoints, int k) {
-        int n =cardPoints.size();
-        int left=0;
-        int maxi=INT_MIN;
+    int maxScore(vector<int>& points, int k) {
+        int n =points.size();
+        int left =0;
         for(int i=0;i<k;i++){
-            left+=cardPoints[i];
+            left+=points[i];
         }
-        maxi=left;
+        int maxi=left;
         int right=0;
-        int f=n-1;
-        for(int j=k-1;j>=0;j--){
-            left=left-cardPoints[j];
-            right+=cardPoints[f];
-            f--;
+        int j=n-1;
+        for(int i=k-1;i>=0;i--){
+            left=left-points[i]; 
+            right+=points[j];
+            j--;
             maxi=max(maxi,left+right);
         }
         return maxi;
+        
     }
 };

@@ -14,7 +14,7 @@ public:
                 l++;
 
             }
-            if(zeroes<=k) maxi=max(maxi,r-l+1);
+           maxi=max(maxi,r-l+1);
             r++;
             
         }

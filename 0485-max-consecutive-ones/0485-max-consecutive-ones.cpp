@@ -7,7 +7,7 @@ public:
         int maxi=0;
         while(r<n){
             if(nums[r]==0) l=r+1;
-            else maxi=max(maxi,r-l+1);
+            maxi=max(maxi,r-l+1);
             r++;
             
         }

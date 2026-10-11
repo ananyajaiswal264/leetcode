@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ananyajaiswal264/leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ananyajaiswal264/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/ananyajaiswal264/leetcode/tree/master/0704-binary-search) |
+| [1004-max-consecutive-ones-iii](https://github.com/ananyajaiswal264/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/ananyajaiswal264/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/ananyajaiswal264/leetcode/tree/master/0704-binary-search) |
 | [0860-lemonade-change](https://github.com/ananyajaiswal264/leetcode/tree/master/0860-lemonade-change) |
+| [1004-max-consecutive-ones-iii](https://github.com/ananyajaiswal264/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ananyajaiswal264/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/ananyajaiswal264/leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ananyajaiswal264/leetcode/tree/master/0238-product-of-array-except-self) |
+| [1004-max-consecutive-ones-iii](https://github.com/ananyajaiswal264/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ananyajaiswal264/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/ananyajaiswal264/leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## String
@@ -213,5 +216,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ananyajaiswal264/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/ananyajaiswal264/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/ananyajaiswal264/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ananyajaiswal264/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->

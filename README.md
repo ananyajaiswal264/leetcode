@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/ananyajaiswal264/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ananyajaiswal264/leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/ananyajaiswal264/leetcode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/ananyajaiswal264/leetcode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/ananyajaiswal264/leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/ananyajaiswal264/leetcode/tree/master/0268-missing-number) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/ananyajaiswal264/leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/ananyajaiswal264/leetcode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/ananyajaiswal264/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ananyajaiswal264/leetcode/tree/master/0268-missing-number) |
 ## Queue
 |  |
@@ -225,4 +227,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/ananyajaiswal264/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/ananyajaiswal264/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ananyajaiswal264/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/ananyajaiswal264/leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->

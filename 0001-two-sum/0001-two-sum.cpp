@@ -9,6 +9,7 @@ public:
             if(mp.find(rem)!=mp.end()){
                 ans.push_back(mp[rem]);
                 ans.push_back(i);
+                return ans;
             }
             else {
                 mp[nums[i]]=i;

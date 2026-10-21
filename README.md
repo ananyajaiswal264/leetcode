@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/ananyajaiswal264/leetcode/tree/master/0035-search-insert-position) |
 | [0098-validate-binary-search-tree](https://github.com/ananyajaiswal264/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0268-missing-number](https://github.com/ananyajaiswal264/leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ananyajaiswal264/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ananyajaiswal264/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ananyajaiswal264/leetcode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/ananyajaiswal264/leetcode/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/ananyajaiswal264/leetcode/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/ananyajaiswal264/leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/ananyajaiswal264/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ananyajaiswal264/leetcode/tree/master/0040-combination-sum-ii) |

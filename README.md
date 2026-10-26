@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ananyajaiswal264/leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0200-number-of-islands](https://github.com/ananyajaiswal264/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/ananyajaiswal264/leetcode/tree/master/0547-number-of-provinces) |
 ## Binary Search Tree
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/ananyajaiswal264/leetcode/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/ananyajaiswal264/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ananyajaiswal264/leetcode/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/ananyajaiswal264/leetcode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/ananyajaiswal264/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/ananyajaiswal264/leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/ananyajaiswal264/leetcode/tree/master/0238-product-of-array-except-self) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/ananyajaiswal264/leetcode/tree/master/0037-sudoku-solver) |
+| [0200-number-of-islands](https://github.com/ananyajaiswal264/leetcode/tree/master/0200-number-of-islands) |
 ## Dancing Links
 |  |
 | ------- |
@@ -247,10 +250,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/ananyajaiswal264/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/ananyajaiswal264/leetcode/tree/master/0547-number-of-provinces) |
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/ananyajaiswal264/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/ananyajaiswal264/leetcode/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |

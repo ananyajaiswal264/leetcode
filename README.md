@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ananyajaiswal264/leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0547-number-of-provinces](https://github.com/ananyajaiswal264/leetcode/tree/master/0547-number-of-provinces) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -243,4 +244,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/ananyajaiswal264/leetcode/tree/master/0231-power-of-two) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/ananyajaiswal264/leetcode/tree/master/0547-number-of-provinces) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/ananyajaiswal264/leetcode/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/ananyajaiswal264/leetcode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->

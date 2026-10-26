@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/ananyajaiswal264/leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/ananyajaiswal264/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ananyajaiswal264/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/ananyajaiswal264/leetcode/tree/master/0542-01-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/ananyajaiswal264/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/ananyajaiswal264/leetcode/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/ananyajaiswal264/leetcode/tree/master/0733-flood-fill) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/ananyajaiswal264/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ananyajaiswal264/leetcode/tree/master/0055-jump-game) |
 | [0131-palindrome-partitioning](https://github.com/ananyajaiswal264/leetcode/tree/master/0131-palindrome-partitioning) |
+| [0542-01-matrix](https://github.com/ananyajaiswal264/leetcode/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/ananyajaiswal264/leetcode/tree/master/0678-valid-parenthesis-string) |
 ## Prefix Sum
 |  |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/ananyajaiswal264/leetcode/tree/master/0037-sudoku-solver) |
 | [0200-number-of-islands](https://github.com/ananyajaiswal264/leetcode/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/ananyajaiswal264/leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/ananyajaiswal264/leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/ananyajaiswal264/leetcode/tree/master/0994-rotting-oranges) |
 ## Dancing Links
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/ananyajaiswal264/leetcode/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/ananyajaiswal264/leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/ananyajaiswal264/leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/ananyajaiswal264/leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/ananyajaiswal264/leetcode/tree/master/0994-rotting-oranges) |

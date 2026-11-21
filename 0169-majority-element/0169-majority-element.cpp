@@ -5,13 +5,11 @@ public:
         unordered_map<int,int>mp;
         for(int e :nums){
             mp[e]++;
-        }
-        for(auto e:mp){
-            if(e.second>n/2){
-                return e.first;
+            if(mp[e]>n/2){
+                return e;
             }
-
         }
+        
         return -1;
     }
 };

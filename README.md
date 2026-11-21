@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ananyajaiswal264/leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/ananyajaiswal264/leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/ananyajaiswal264/leetcode/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/ananyajaiswal264/leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/ananyajaiswal264/leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/ananyajaiswal264/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ananyajaiswal264/leetcode/tree/master/0055-jump-game) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ananyajaiswal264/leetcode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/ananyajaiswal264/leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/ananyajaiswal264/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/ananyajaiswal264/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ananyajaiswal264/leetcode/tree/master/0217-contains-duplicate) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ananyajaiswal264/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/ananyajaiswal264/leetcode/tree/master/0049-group-anagrams) |
 | [0131-palindrome-partitioning](https://github.com/ananyajaiswal264/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0205-isomorphic-strings](https://github.com/ananyajaiswal264/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ananyajaiswal264/leetcode/tree/master/0242-valid-anagram) |
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ananyajaiswal264/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/ananyajaiswal264/leetcode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/ananyajaiswal264/leetcode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/ananyajaiswal264/leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/ananyajaiswal264/leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/ananyajaiswal264/leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/ananyajaiswal264/leetcode/tree/master/0217-contains-duplicate) |

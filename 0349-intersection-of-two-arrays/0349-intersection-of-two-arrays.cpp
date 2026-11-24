@@ -3,14 +3,11 @@ public:
     vector<int> intersection(vector<int>& nums1, vector<int>& nums2) {
         unordered_set<int>st;
         vector<int>ans;
-        for(auto e:nums1){
-            st.insert(e);
-        }
-        for(auto e:nums2){
-            if(st.find(e)!=st.end()){
-                ans.push_back(e);
-                st.erase(e);
-
+        for(auto num:nums1) st.insert(num);
+        for(auto num:nums2){
+            if(st.find(num)!=st.end()){
+                ans.push_back(num);
+                st.erase(num);
             }
         }
         return ans;
